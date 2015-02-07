@@ -1,4 +1,4 @@
-(ns dc.components.results ;; this is a path
+(ns dc.components.results
   (:require [om.core :as om]
             [clojure.string :as string]
             [ankha.core :as ankha]
