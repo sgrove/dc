@@ -71,9 +71,10 @@ If you need to use other lifecycle methods in your component, use the hashmap sy
     
 ## Setup
 
-First-time Clojurescript developers, add the following to your bash .profile:
+In a terminal run:
 
     git clone https://github.com/sgrove/dc.git
+    cd dc
     lein cljsbuild auto
     
 in another terminal
